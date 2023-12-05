@@ -13,6 +13,6 @@
 
 ### How to run
 
-1. `python3 main.py`
+1. Run `python3 main.py`
 2. Follow the steps displayed in console
-3. View file in generated `Passwords.txt` file
+3. View generated passwords in `Passwords.txt` file
